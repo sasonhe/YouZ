@@ -108,6 +108,24 @@ export default {
 </script>
 
 <style scoped>
+.title {
+  height: 0.79rem;
+}
+
+.title h1 {
+  font-size: 0.32rem;
+  font-weight: 700;
+  color: #333;
+  line-height: 0.8rem;
+}
+
+.title h3 a {
+  font-size: 0.22rem;
+  font-weight: 100;
+  line-height: 0.8rem;
+  color: #ff6c00;
+}
+
 .main-list {
   padding: 0.26rem 0px;
   height: 0.98rem;
