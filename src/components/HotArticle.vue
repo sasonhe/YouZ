@@ -27,12 +27,12 @@
 export default {
   data() {
     return {
-      dateImg: require('../../static/images/img_2.png'),
+      dateImg: require('../assets/images/img_2.png'),
       articleInfo: [{
           "name": "热门推荐",
           "info": [{
-              img: require('../../static/images/youz_1.png'),
-              userAvatar: require('../../static/images/img_1.png'),
+              img: require('../assets/images/youz_1.png'),
+              userAvatar: require('../assets/images/img_1.png'),
               title: "分发迎来拐点",
               user: 'Admin',
               date: '08月24日',
@@ -40,8 +40,8 @@ export default {
               des: "作为移动互联网的重要入口，移动应用分发市场现已进入消费升级时代。这一时期，用户对手机应用的追求，已经从单一的功能性需求，演变成对品质、情感等深度诉求。那么，针对用户需求的转变，移动应用分发市场该如何顺应时势，跟上应用分发市场变化的脚步？"
             },
             {
-              img: require('../../static/images/youz_2.png'),
-              userAvatar: require('../../static/images/img_1.png'),
+              img: require('../assets/images/youz_2.png'),
+              userAvatar: require('../assets/images/img_1.png'),
               title: "外媒：百度股价涨幅超40% 未来上升潜力巨大",
               user: 'Admin',
               date: '08月24日',
@@ -53,8 +53,8 @@ export default {
         {
           "name": "热门推荐",
           "info": [{
-              img: require('../../static/images/youz_3.png'),
-              userAvatar: require('../../static/images/img_1.png'),
+              img: require('../assets/images/youz_3.png'),
+              userAvatar: require('../assets/images/img_1.png'),
               title: "英特尔CEO致员工：未来我们要冒更多风险 移动服务商",
               user: 'Admin',
               date: '08月24日',
@@ -62,8 +62,8 @@ export default {
               des: "英特尔首席执行官科再奇（Brian Krzanich）在本周二告诉员工，公司将承担更大的风险，变化将成为“新常态”"
             },
             {
-              img: require('../../static/images/youz_4.png'),
-              userAvatar: require('../../static/images/img_1.png'),
+              img: require('../assets/images/youz_4.png'),
+              userAvatar: require('../assets/images/img_1.png'),
               title: "小程序会不会改变国内互联网格局 引爆下一个创业浪潮？",
               user: 'Admin',
               date: '08月24日',

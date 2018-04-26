@@ -154,37 +154,37 @@ section[data-v-02f50fa4] {
   margin: 0 auto;
 }
 
-.title[data-v-36238c35] {
+.title[data-v-05eefb7b] {
   height: 0.79rem;
 }
-.title h1[data-v-36238c35] {
+.title h1[data-v-05eefb7b] {
   font-size: 0.32rem;
   font-weight: 700;
   color: #333;
   line-height: 0.8rem;
 }
-.title h3 a[data-v-36238c35] {
+.title h3 a[data-v-05eefb7b] {
   font-size: 0.22rem;
   font-weight: 100;
   line-height: 0.8rem;
   color: #ff6c00;
 }
-.main-wrap[data-v-36238c35] {
+.main-wrap[data-v-05eefb7b] {
   padding: 0.25rem 0;
   height: 4.14rem;
 }
-.main-wrap[data-v-36238c35]:last-child {
+.main-wrap[data-v-05eefb7b]:last-child {
   border: none;
 }
-.main[data-v-36238c35] {
+.main[data-v-05eefb7b] {
   width: 3.1rem;
   display: inline-block;
   margin-right: 0.4rem;
 }
-.main[data-v-36238c35]:last-child {
+.main[data-v-05eefb7b]:last-child {
   margin-right: 0px;
 }
-.main .text[data-v-36238c35] {
+.main .text[data-v-05eefb7b] {
   padding-top: 0.2rem;
   font-size: 0.28rem;
   font-weight: 600;
@@ -193,7 +193,7 @@ section[data-v-02f50fa4] {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-.main .des[data-v-36238c35] {
+.main .des[data-v-05eefb7b] {
   height: 0.80rem;
   padding-top: 0.18rem;
   font-size: 0.22rem;
@@ -206,37 +206,37 @@ section[data-v-02f50fa4] {
   -webkit-box-orient: vertical;
   /* autoprefixer: on */
 }
-.main .footer[data-v-36238c35] {
+.main .footer[data-v-05eefb7b] {
   padding-top: 0.16rem;
   color: #a9a9a9;
 }
-.main .footer .icon-wrap[data-v-36238c35] {
+.main .footer .icon-wrap[data-v-05eefb7b] {
   height: 0.25rem;
   line-height: 0.28rem;
   margin-bottom: 0.1rem;
 }
-.main .footer .icon[data-v-36238c35] {
+.main .footer .icon[data-v-05eefb7b] {
   display: inline-block;
   height: 0.25rem;
   width: 0.25rem;
   border-radius: 50%;
   margin-right: 0.1rem;
 }
-.main .footer .icon img[data-v-36238c35] {
+.main .footer .icon img[data-v-05eefb7b] {
   width: 0.25rem;
   height: 0.25rem;
 }
-.main .footer .name[data-v-36238c35] {
+.main .footer .name[data-v-05eefb7b] {
   display: inline-block;
   font-size: 0.22rem;
 }
-.main .footer .time[data-v-36238c35] {
+.main .footer .time[data-v-05eefb7b] {
   display: block;
   height: 0.25rem;
   line-height: 0.28rem;
   font-size: 0.22rem;
 }
-.main .footer .time .time-icon[data-v-36238c35] {
+.main .footer .time .time-icon[data-v-05eefb7b] {
   width: 0.25rem;
   height: 0.25rem;
   margin-right: 0.1rem;
