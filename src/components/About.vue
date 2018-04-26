@@ -21,15 +21,11 @@ export default {}
 
 <style scoped>
 .about .line-top {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   padding: 0.3rem 0px;
 }
 
 .about .line {
-  -webkit-box-flex: 1;
-  -ms-flex: 1;
   flex: 1;
   position: relative;
   top: -0.18rem;
