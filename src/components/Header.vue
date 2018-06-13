@@ -14,8 +14,8 @@ export default {}
 
 <style scoped>
 .header {
-  padding: 0.23rem 0.2rem;
   height: 0.42rem;
+  padding: 0.23rem 0.2rem;
   background: #fff;
 }
 

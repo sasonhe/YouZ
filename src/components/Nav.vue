@@ -30,6 +30,9 @@ export default {}
 </script>
 
 <style scoped>
+.margin-btm{
+  height: 1.82rem;
+}
 .nav {
   padding: 0.3rem 0;
   display: flex;
