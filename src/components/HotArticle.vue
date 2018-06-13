@@ -111,9 +111,11 @@ export default {
   display: inline-block;
   margin-right: 0.4rem;
 }
+
 .main {
   height: 1.76rem;
 }
+
 .main:last-child {
   margin-right: 0px;
 }
