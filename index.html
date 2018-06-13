@@ -11,15 +11,26 @@
 <body>
   <div id="app"></div>
   <script>
+<<<<<<< HEAD
     function getRem(pwidth, prem) {
       var html = document.getElementsByTagName("html")[0];
       var oWidth = document.body.clientWidth || document.documentElement.clientWidth;
     
+=======
+    window.onresize = function() {
+      getRem(720, 100);
+    };
+
+    function getRem(pwidth, prem) {
+      var html = document.getElementsByTagName("html")[0];
+      var oWidth = document.body.clientWidth || document.documentElement.clientWidth;
+>>>>>>> 576efd88628f5870d89f95debdf8d56a62840174
       if (oWidth > 720) {
         html.style.fontSize = 100 + "px";
       } else {
         html.style.fontSize = oWidth / pwidth * prem + "px";
       }
+<<<<<<< HEAD
     }
     getRem(720, 100);
     window.onload = function() {
@@ -29,6 +40,10 @@
       getRem(720, 100)
     };
     
+=======
+    };
+    getRem(720, 100);
+>>>>>>> 576efd88628f5870d89f95debdf8d56a62840174
   </script>
 </body>
 
